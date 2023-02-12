@@ -69,6 +69,15 @@
 		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "NukeServer",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Linux",
+				"Mac",
+				"Win64"
+			]
 		}
 	]
 }
